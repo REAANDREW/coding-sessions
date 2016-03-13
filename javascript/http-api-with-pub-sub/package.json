@@ -1,0 +1,21 @@
+{
+  "name": "http-api-with-pub-sub",
+  "version": "1.0.0",
+  "description": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en",
+  "main": "example.js",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "deride": "^0.4.0",
+    "express": "^4.13.4",
+    "lodash": "^4.2.1",
+    "node-uuid": "^1.4.7",
+    "request": "^2.69.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
